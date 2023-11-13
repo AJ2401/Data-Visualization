@@ -1,7 +1,5 @@
 # Data-Visualization
 
-Based on the contents of the `Plots.py` and `data.py` files, I'll draft a `README.md` file that outlines the purpose and functionality of these Python scripts:
-
 ---
 
 # Stock Data Visualization Tool
